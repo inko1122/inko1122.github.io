@@ -7,7 +7,6 @@
 # server process.
 
 # Basic Site Settings
-# Basic Site Settings
 locale                   : "ko-KR" # 영어를 한국어로 변경
 site_theme               : "default"
 title                    : "권하일 / 프로젝트 포트폴리오" # 수정 요청 반영
