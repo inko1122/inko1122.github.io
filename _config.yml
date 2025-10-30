@@ -32,7 +32,7 @@ author:
   uri              : "https://www.hanshin.ac.kr" # 학교 주소 추가
   email            : "gkdlf56890@naver.com" # 요청 반영
 
-  # Academic websites - 요청에 따라 모두 주석 처리하거나 빈칸으로 둡니다.
+# Academic websites - 요청에 따라 모두 주석 처리하거나 빈칸으로 둡니다.
   academia         : 
   arxiv            : 
   googlescholar    : 
@@ -44,7 +44,7 @@ author:
   researchgate     : 
   scopus           : 
 
-  # Repositories and software development
+# Repositories and software development
   bitbucket        : 
   codepen          : 
   dribbble         : 
@@ -52,7 +52,7 @@ author:
   kaggle           : 
   stackoverflow    :    
 
-  # Social media
+# Social media
   artstation       : 
   bluesky          : # 요청에 따라 제거
   facebook         : 
