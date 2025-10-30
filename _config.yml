@@ -16,7 +16,7 @@ name                     : &name "권하일" # 이름 변경
 description              : &description "한신대학교 AI.SW학과 학생의 학업 및 프로젝트 포트폴리오" 
 url                      : https://inko1122.github.io # 사용자님의 주소 유지
 baseurl                  : ""
-repository               : "inko1122/[내 저장]" # 템플릿 이름 대신 본인의 저장소 이름으로 변경하세요.
+repository               : "inko1122/[내 저장소]" # 템플릿 이름 대신 본인의 저장소 이름으로 변경하세요.
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
