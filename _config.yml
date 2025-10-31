@@ -6,15 +6,15 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 # Basic Site Settings
-locale                   : "ko-KR" # 영어를 한국어로 변경
-site_theme               : "default"
-title                    : "권하일 / 프로젝트 포트폴리오" # 수정 요청 반영
-title_separator          : "|" # 가독성을 위해 하이픈을 파이프(|)로 변경
-name                     : &name "권하일" # 이름 변경
-description              : &description "한신대학교 AI.SW학과 학생의 학업 및 프로젝트 포트폴리오"   # 설명 업데이트
-url                      : https://inko1122.github.io # 사용자님의 주소 유지
-baseurl                  : ""
-repository               : "inko1122/[당신의_저장소_이름]" # 템플릿 이름 대신 본인의 저장소 이름으로 변경하세요.
+locale: "ko-KR" # 영어를 한국어로 변경
+site_theme: "default"
+title: "권하일 / 프로젝트 포트폴리오" # 수정 요청 반영
+title_separator: "|" # 가독성을 위해 하이픈을 파이프(|)로 변경
+name: &name "권하일" # 이름 변경
+description: &description "한신대학교 AI.SW학과 학생의 학업 및 프로젝트 포트폴리오"   # 설명 업데이트
+url: https://inko1122.github.io # 사용자님의 주소 유지
+baseurl: ""
+repository: "inko1122/[당신의_저장소_이름]" # 템플릿 이름 대신 본인의 저장소 이름으로 변경하세요.
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
