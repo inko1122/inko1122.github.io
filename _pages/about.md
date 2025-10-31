@@ -1,5 +1,5 @@
 ---
-permalink: /  <-- 이 부분이 메인 페이지임을 지정합니다.
+permalink: /
 title: "..."
 author_profile: true
 ---
