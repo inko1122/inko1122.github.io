@@ -21,8 +21,8 @@ repository               : "inko1122/[내 저장소]" # 템플릿 이름 
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.htmㅣ
 
+# Biographic information
 author:
-  # Biographic information
   avatar           : "profile.png"
   name             : "권하일"
   pronouns         : # example: "she/her"  
