@@ -6,7 +6,6 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-# Basic Site Settings
 locale                   : "ko-KR" 
 site_theme               : "default"
 title                    : "권하일 / 프로젝트 포트폴리오" 
