@@ -21,18 +21,18 @@ repository               : "inko1122/[당신의_저장소_이름]" # 템�
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 
-# Biographic information
 author:
-avatar: "profile.png"
-name: "권하일"
-pronouns: # example: "she/her" 
-bio: "한신대학교 AI.SW학과 202578152 학번 권하일입니다!""
-location: "South Korea/ Gyeonggi/Dongtan"
-employer: "Hanshin University"
-uri: "https://www.hanshin.ac.kr"
-email: "gkdlf56890@naver.com"
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "권하일"
+  pronouns         : # example: "she/her"  
+  bio              : "한신대학교 AI.SW학과 202578152 학번 권하일입니다!" # 요청 반영
+  location         : "South Korea/ Gyeonggi/Dongtan" # 요청 반영
+  employer         : "Hanshin University" # 요청 반영
+  uri              : "https://www.hanshin.ac.kr" # 학교 주소 추가
+  email            : "gkdlf56890@naver.com" # 요청 반영
 
-# Academic websites - 요청에 따라 모두 주석 처리하거나 빈칸으로 둡니다.
+  # Academic websites - 요청에 따라 모두 주석 처리하거나 빈칸으로 둡니다.
   academia         : 
   arxiv            : 
   googlescholar    : 
@@ -44,7 +44,7 @@ email: "gkdlf56890@naver.com"
   researchgate     : 
   scopus           : 
 
-# Repositories and software development
+  # Repositories and software development
   bitbucket        : 
   codepen          : 
   dribbble         : 
@@ -52,7 +52,7 @@ email: "gkdlf56890@naver.com"
   kaggle           : 
   stackoverflow    :    
 
-# Social media
+  # Social media
   artstation       : 
   bluesky          : # 요청에 따라 제거
   facebook         : 
