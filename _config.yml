@@ -23,14 +23,14 @@ repository               : "inko1122/[내 저장소]" # 템플릿 이름 
 
 # Biographic information
 author:
-avatar: "profile.png"
-name: "권하일"
-pronouns: # example: "she/her" 
-bio: "한신대학교 AI.SW학과 202578152 학번 권하일입니다!""
-location: "South Korea/ Gyeonggi/Dongtan"
-employer: "Hanshin University"
-uri: "https://www.hanshin.ac.kr"
-email: "gkdlf56890@naver.com"
+  avatar: "profile.png"
+  name: "권하일"
+  pronouns: # example: "she/her" 
+  bio: "한신대학교 AI.SW학과 202578152 학번 권하일입니다!""
+  location: "South Korea/ Gyeonggi/Dongtan"
+  employer: "Hanshin University"
+  uri: "https://www.hanshin.ac.kr"
+  email: "gkdlf56890@naver.com"
 
 # Academic websites - 요청에 따라 모두 주석 처리하거나 빈칸으로 둡니다.
   academia         : 
