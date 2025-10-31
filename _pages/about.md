@@ -1,7 +1,6 @@
 ---
-layout: single
-title: "AI.SW학과 권하일입니다."
-permalink: /
+permalink: /  <-- 이 부분이 메인 페이지임을 지정합니다.
+title: "..."
 author_profile: true
 ---
 
