@@ -5,7 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-
 # Basic Site Settings
 locale                   : "ko-KR" # 영어를 한국어로 변경
 site_theme               : "default"
@@ -20,7 +19,6 @@ repository               : "inko1122/[당신의_저장소_이름]" # 템�
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-
 author:
   # Biographic information
   avatar           : "profile.png"
