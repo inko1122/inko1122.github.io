@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "kr-Ko"
+locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "권하일 / Site Title"
 title_separator          : "-"
@@ -356,4 +356,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-수정하는 방법 알아냈어
